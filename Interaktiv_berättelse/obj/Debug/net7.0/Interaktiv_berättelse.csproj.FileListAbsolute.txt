@@ -1,0 +1,14 @@
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net7.0\Interaktiv_berättelse.exe
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net7.0\Interaktiv_berättelse.deps.json
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net7.0\Interaktiv_berättelse.runtimeconfig.json
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net7.0\Interaktiv_berättelse.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\bin\Debug\net7.0\Interaktiv_berättelse.pdb
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.AssemblyInfoInputs.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.AssemblyInfo.cs
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.csproj.CoreCompileInputs.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\refint\Interaktiv_berättelse.dll
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.pdb
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\Interaktiv_berättelse.genruntimeconfig.cache
+C:\Users\alexandra.lignell\Documents\Programmering\Interaktiv_berättelse\Interaktiv_berättelse\obj\Debug\net7.0\ref\Interaktiv_berättelse.dll
